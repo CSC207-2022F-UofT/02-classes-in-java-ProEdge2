@@ -121,7 +121,7 @@ public class Silly implements Comparable<Silly>{
          * TODO (Task 2): Below are a bunch of calls to countStatic using
          *                two different instances of Silly.
          *                Fill out the expected_values array with the
-         *                values that countStatic will return at each call.
+         *                values that countStatic will return at each call
          */
         x.countStatic();
         y.countStatic();
